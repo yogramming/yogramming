@@ -9,7 +9,7 @@
 <h1 align="center">Hi there, I'm Yogramming 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | DevOps Enthusiast | Terminal Power User</b><br>
+  <b>Full Stack Developer | DevOps Enthusiast | Arch User</b><br>
   <i>I build scalable web & mobile apps and automate things like a wizard 🧙‍♂️</i>
 </p>
 

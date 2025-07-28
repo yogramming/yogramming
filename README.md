@@ -1,6 +1,6 @@
 <!-- Banner / Terminal Screenshot -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yogramming/yogramming/main/assets/banner.png" alt="yogramming's terminal banner" />
+  <img src="assets/banner.gif" alt="yogramming's terminal banner" />
 </p>
 
 ---
@@ -70,8 +70,6 @@ I regularly sharpen my algorithms and data structure skills on **LeetCode** usin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yogramming&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogramming&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 

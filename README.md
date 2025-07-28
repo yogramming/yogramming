@@ -1,3 +1,11 @@
+<!-- Banner / Terminal Screenshot -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yogramming/yogramming/main/assets/banner.png" alt="yogramming's terminal banner" />
+</p>
+
+---
+
+
 <h1 align="center">Hi there, I'm Yogramming 👋</h1>
 
 <p align="center">
@@ -58,11 +66,22 @@ I regularly sharpen my algorithms and data structure skills on **LeetCode** usin
 
 ---
 
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yogramming?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats Card" />
+</p>
+
+---
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogramming&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogramming&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogramming&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogramming&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---

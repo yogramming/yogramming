@@ -67,19 +67,10 @@ I regularly sharpen my algorithms and data structure skills on **LeetCode** usin
 ---
 
 
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yogramming?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats Card" />
-</p>
-
----
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogramming&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yogramming&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogramming&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>

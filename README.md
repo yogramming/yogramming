@@ -1,6 +1,6 @@
 <!-- Banner / Terminal Screenshot -->
 <p align="center">
-  <img src="assets/banner.gif" alt="yogramming's terminal banner" />
+  <img src="assets/matrix.gif" alt="yogramming's terminal banner" />
 </p>
 
 ---

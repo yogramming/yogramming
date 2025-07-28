@@ -80,7 +80,7 @@ I regularly sharpen my algorithms and data structure skills on **LeetCode** usin
 
 <p align="center">
   <a href="https://leetcode.com/yogramming/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://x.com/_yogramming"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/_yogramming"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yogesh-dubey-aka-yogramming-a0a80828b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/No_Technician2662/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="mailto:yfitv.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

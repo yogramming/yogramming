@@ -49,7 +49,7 @@
 
 ## 💡 Problem Solver
 
-I regularly sharpen my algorithms and data structure skills on **LeetCode** using **Java** and **JavaScript**.
+I regularly sharpen my algorithms and data structure skills on **LeetCode** using **Java**.
 
 - 🔍 Focused on DSA fundamentals: Arrays, Graphs, Trees, Dynamic Programming
 - 🧩 Favorite language for problem solving: **Java**

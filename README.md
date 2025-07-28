@@ -79,11 +79,11 @@ I regularly sharpen my algorithms and data structure skills on **LeetCode** usin
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://leetcode.com/yogramming/"><img src="https://img.shields.io/badge/LeetCode-yogramming-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://x.com/_yogramming"><img src="https://img.shields.io/badge/Twitter-_yogramming-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yogesh-dubey-aka-yogramming-a0a80828b/"><img src="https://img.shields.io/badge/LinkedIn-yogramming-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-yogramming-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:yfitv.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-yfitv.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/yogramming/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://x.com/_yogramming"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yogesh-dubey-aka-yogramming-a0a80828b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:yfitv.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
